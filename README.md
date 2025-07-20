@@ -4,7 +4,7 @@ In this Splunk training project, I followed a hands-on approach to practice the 
 
 📁 1. Dataset Upload to Splunk
 I started by uploading a sample dataset to Splunk and indexing it properly for analysis.
-📷 View Screenshot
+📷 View Screenshot https://github.com/Abdallahreda97/Splunk_Training_Project/blob/main/screenshots/Data%20Ingestion2.png
 
 🔍 2. Testing Search Queries
 I explored different SPL (Search Processing Language) queries to filter and analyze the data.
